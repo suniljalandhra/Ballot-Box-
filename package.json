@@ -1,0 +1,22 @@
+{
+  "name": "ballot-box-",
+  "version": "1.0.0",
+  "description": "Just Learning new tech is my thing",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suniljalandhra/Ballot-Box-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suniljalandhra/Ballot-Box-/issues"
+  },
+  "homepage": "https://github.com/suniljalandhra/Ballot-Box-#readme"
+}
